@@ -1,0 +1,218 @@
+[
+  {
+    "Name": "Trader Joe's",
+    "Address": "555 9th St",
+    "LAT": 37.7709,
+    "LNG": -122.4076,
+    "POST": 94103,
+    "Neighborhood": "SOMISSPO,South Of Market"
+  },
+  {
+    "Name": "Trader Joe's",
+    "Address": "265 Winston Dr",
+    "LAT": 37.7267,
+    "LNG": -122.4762,
+    "POST": 94132,
+    "Neighborhood": "Lakeside,Stonestown"
+  },
+  {
+    "Name": "Trader Joe's",
+    "Address": "1095 Hyde St",
+    "LAT": 37.7907,
+    "LNG": -122.4177,
+    "POST": 94109,
+    "Neighborhood": "Lower Nob Hill,Nob Hill,Tenderloin"
+  },
+  {
+    "Name": "Trader Joe's",
+    "Address": "3 Masonic Ave",
+    "LAT": 37.7833,
+    "LNG": -122.4477,
+    "POST": 94118,
+    "Neighborhood": "Anza Vista,Laurel Heights"
+  },
+  {
+    "Name": "Trader Joe's",
+    "Address": "401 Bay St",
+    "LAT": 37.8055,
+    "LNG": -122.4139,
+    "POST": 94133,
+    "Neighborhood": "Fisherman's Wharf,North Beach"
+  },
+  {
+    "Name": "Trader Joe's",
+    "Address": "10 4th St",
+    "LAT": 37.7857,
+    "LNG": -122.4057,
+    "POST": 94103,
+    "Neighborhood": "Civic Center,Financial District,NOMA,South Of Market,Union Square"
+  },
+  {
+    "Name": "Whole Foods",
+    "Address": "2001 Market St",
+    "LAT": 37.7689,
+    "LNG": -122.4269,
+    "POST": 94114,
+    "Neighborhood": "Duboce Triangle,Lower Haight,Mission Dolores"
+  },
+  {
+    "Name": "Whole Foods",
+    "Address": "450 Rhode Island St",
+    "LAT": 37.7644,
+    "LNG": -122.4028,
+    "POST": 94107,
+    "Neighborhood": "Potrero District,Potrero Flats"
+  },
+  {
+    "Name": "Whole Foods",
+    "Address": "1150 Ocean Ave",
+    "LAT": 37.7238,
+    "LNG": -122.4548,
+    "POST": 94112,
+    "Neighborhood": "Potrero District,Potrero Flats"
+  },
+  {
+    "Name": "Whole Foods",
+    "Address": "399 4th St",
+    "LAT": 37.7811,
+    "LNG": -122.3997,
+    "POST": 94107,
+    "Neighborhood": "South Beach,South Of Market"
+  },
+  {
+    "Name": "Whole Foods",
+    "Address": "1765 California St",
+    "LAT": 37.79,
+    "LNG": -122.4233,
+    "POST": 94109,
+    "Neighborhood": "Cathedral Hill,Laguna Heights,Little Osaka,Pacific Heights,Polk Gulch,Van Ness"
+  },
+  {
+    "Name": "Whole Foods",
+    "Address": "3950 24th St",
+    "LAT": 37.7518,
+    "LNG": -122.4309,
+    "POST": 94114,
+    "Neighborhood": "Dolores Heights,Noe Valley"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "5290 Diamond Heights Blvd",
+    "LAT": 37.7437,
+    "LNG": -122.4389,
+    "POST": 94131,
+    "Neighborhood": "Diamond Heights,Vista del Monte"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "4950 Mission St",
+    "LAT": 37.7197,
+    "LNG": -122.439,
+    "POST": 94112,
+    "Neighborhood": "Crocker-Amazon,Mission Terrace"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "625 Monterey Blvd",
+    "LAT": 37.7313,
+    "LNG": -122.4498,
+    "POST": 94127,
+    "Neighborhood": "Sunnyside,Westwood Highlands"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "1335 Webster St",
+    "LAT": 37.7829,
+    "LNG": -122.4314,
+    "POST": 94115,
+    "Neighborhood": "Thomas Paine Square,Western Addition"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "730 Taraval St",
+    "LAT": 37.7433,
+    "LNG": -122.474,
+    "POST": 94116,
+    "Neighborhood": "Inner Parkside,West Portal,Westlake"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "350 Bay St",
+    "LAT": 37.806,
+    "LNG": -122.4129,
+    "POST": 94133,
+    "Neighborhood": "Fisherman's Wharf,North Beach"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "850 La Playa St",
+    "LAT": 37.7724,
+    "LNG": -122.5095,
+    "POST": 94121,
+    "Neighborhood": "Outer Richmond,Sutro Heights"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "298 King St",
+    "LAT": 37.7767,
+    "LNG": -122.3941,
+    "POST": 94107,
+    "Neighborhood": "Mission Bay,South Of Market"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "3350 Mission St",
+    "LAT": 37.7432,
+    "LNG": -122.4221,
+    "POST": 94110,
+    "Neighborhood": "Bernal Heights,Noe Valley,Transmission"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "2300 16th St",
+    "LAT": 37.7666,
+    "LNG": -122.4095,
+    "POST": 94103,
+    "Neighborhood": "Inner Mission,Mission,Potrero Flats,SOMISSPO"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "145 Jackson St",
+    "LAT": 37.7969,
+    "LNG": -122.3988,
+    "POST": 94111,
+    "Neighborhood": "Financial District,North Waterfront"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "735 7th Ave",
+    "LAT": 37.7746,
+    "LNG": -122.4653,
+    "POST": 94118,
+    "Neighborhood": "Inner Richmond,Richmond District"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "15 Marina Blvd",
+    "LAT": 37.8045,
+    "LNG": -122.4329,
+    "POST": 94123,
+    "Neighborhood": "Marina District"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "2350 Noriega St",
+    "LAT": 37.7541,
+    "LNG": -122.4888,
+    "POST": 94122,
+    "Neighborhood": "Central Sunset,Doelger City,Sunset District"
+  },
+  {
+    "Name": "Safeway",
+    "Address": "2020 Market St",
+    "LAT": 37.7691,
+    "LNG": -122.4281,
+    "POST": 94114,
+    "Neighborhood": "Duboce Triangle,Lower Haight,Mission Dolor"
+  }
+]
